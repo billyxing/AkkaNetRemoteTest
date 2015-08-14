@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServer", "TestServer\TestServer.csproj", "{9909900F-4AF6-44D7-A281-571ED15D24AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClientWPF", "TestClientWPF\TestClientWPF.csproj", "{1879AAEC-EEF3-4C60-9485-233AC59512AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageClassLibrary", "MessageClassLibrary\MessageClassLibrary.csproj", "{90160E5B-D271-402B-92C8-8764A30D1B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9909900F-4AF6-44D7-A281-571ED15D24AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9909900F-4AF6-44D7-A281-571ED15D24AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9909900F-4AF6-44D7-A281-571ED15D24AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9909900F-4AF6-44D7-A281-571ED15D24AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1879AAEC-EEF3-4C60-9485-233AC59512AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1879AAEC-EEF3-4C60-9485-233AC59512AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1879AAEC-EEF3-4C60-9485-233AC59512AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1879AAEC-EEF3-4C60-9485-233AC59512AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90160E5B-D271-402B-92C8-8764A30D1B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90160E5B-D271-402B-92C8-8764A30D1B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90160E5B-D271-402B-92C8-8764A30D1B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90160E5B-D271-402B-92C8-8764A30D1B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
